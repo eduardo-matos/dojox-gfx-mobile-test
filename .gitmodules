@@ -1,0 +1,9 @@
+[submodule "js/dojox"]
+	path = js/dojox
+	url = https://github.com/dojo/dojox.git
+[submodule "js/dojo"]
+	path = js/dojo
+	url = https://github.com/dojo/dojo
+[submodule "js/dijit"]
+	path = js/dijit
+	url = https://github.com/dojo/dijit
